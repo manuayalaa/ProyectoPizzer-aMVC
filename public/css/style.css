@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+#formpizzas{
+    display: grid;
+            grid-template-columns: repeat(3, 1fr); /* Crea 3 columnas de tamaño igual */
+            gap: 20px; /* Espacio entre las columnas */
+            padding: 20px;
+}
+footer{
+    display: flex;
+}

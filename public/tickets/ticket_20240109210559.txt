@@ -1,0 +1,17 @@
+Detalles de la compra:
+Nombre: Bacon Crispy Gourmet
+Cantidad: 1
+Tamaño: individual
+Precio: 1€
+
+Nombre: Lata el Aguila 1900
+Cantidad: 1
+Tamaño: 
+Precio: 1.5€
+
+Nombre: Coca-Cola Original 500ml
+Cantidad: 1
+Tamaño: 
+Precio: 1.5€
+
+Total: 4€
